@@ -147,13 +147,6 @@ Este archivo contiene una lista detallada de todos los materiales necesarios par
 4. Cáñamo
 5. Cuero
 
-### **Colorantes**
-1. Tinte rojo (de cochinilla)
-2. Tinte azul (de índigo)
-3. Tinte amarillo (de azafrán)
-4. Tinte verde (mezcla de azul y amarillo)
-5. Tinte morado (de moluscos)
-
 ---
 
 ## Materiales para Armas y Armaduras
@@ -177,35 +170,12 @@ Este archivo contiene una lista detallada de todos los materiales necesarios par
 
 ---
 
-## Materiales para Magia y Alquimia (Opcional)
-
-### **Ingredientes Mágicos**
-1. Polvo de hadas
-2. Raíces de mandrágora
-3. Sangre de dragón (ficticia)
-4. Plumas de fénix (ficticias)
-5. Cristales mágicos
-
-### **Pociones y Elixires**
-1. Poción de curación
-2. Poción de fuerza
-3. Elixir de invisibilidad
-4. Poción de veneno
-5. Poción de resistencia
-
----
-
 ## Materiales para Decoración y Arte
 
 ### **Materiales para Escultura**
 1. Mármol tallado
 2. Madera tallada
 3. Arcilla modelada
-
-### **Materiales para Pintura**
-1. Pigmentos naturales
-2. Pinceles de pelo animal
-3. Tablas de madera para lienzos
 
 ---
 
@@ -305,15 +275,6 @@ Este archivo contiene una lista detallada de todos los materiales necesarios par
 
 ---
 
-## Materiales para Relojería y Mecánica (Opcional)
-
-### **Materiales para Relojes**
-1. Engranajes de bronce
-2. Muelles de acero
-3. Cajas de madera
-
----
-
 ## Materiales para Construcción de Herramientas Mecánicas (Opcional)
 
 ### **Materiales para Molinos**
@@ -376,4 +337,11 @@ Este archivo contiene una lista detallada de todos los materiales necesarios par
 2. Herramientas de carpintería
 3. Tablones de madera
 
----
+Materiales para Construcción de Mercados
+
+### **Materiales para Puestos de Mercado**
+
+1. Tablones de madera
+2. Telas para toldos
+3. Cestas de mimbre
+

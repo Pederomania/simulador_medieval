@@ -1,6 +1,9 @@
 import yaml
 import os
 
+class Configuracion:
+    DURACION_TURNO = 30  # en minutos
+    DURACION_TOTAL = 24 * 30  # Duración total del ciclo en minutos (ej. 30 días de juego)
 
 def cargar_configuracion():
     """
@@ -20,3 +23,7 @@ def cargar_configuracion():
         raise Exception(f"Error al cargar la configuración: {e}")
 
     return config
+
+class Config:
+    DURACION_TURNO = 30  # en minutos
+    DURACION_TOTAL = 24 * 30  # Duración total del ciclo en minutos (ej. 30 días de juego)
