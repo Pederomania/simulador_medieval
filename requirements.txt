@@ -1,0 +1,61 @@
+# Dependencias principales
+python-dotenv==1.0.1      # Para gestionar variables de entorno (opcional)
+PyYAML==6.0.2             # Para manejar archivos de configuración YAML
+numpy==2.2.4              # Para cálculos numéricos eficientes
+pandas==2.2.3             # Para gestionar datos estructurados (opcional)
+
+# IA y aprendizaje
+scikit-learn==1.6.1       # Para algoritmos de aprendizaje (si se usa aprendizaje supervisado)
+gymnasium==1.1.1          # Para entrenamientos de IA en entornos simulados (opcional)
+
+# Visualización y análisis de datos
+matplotlib==3.10.1        # Para gráficos y visualización de datos
+scipy==1.15.2             # Para procesamiento y análisis de datos científicos
+
+# Redes y grafos
+networkx==3.4.2           # Para trabajar con redes y grafos
+
+# Almacenamiento y persistencia
+sqlalchemy==2.0.39        # Para soporte de bases de datos SQLite (futura implementación)
+
+# Pruebas
+pytest==8.3.5             # Framework para pruebas unitarias
+pytest-mock==3.14.0       # Para mockear funciones en pruebas
+
+# Otras dependencias
+cloudpickle==3.1.1        # Para serialización de objetos en Python
+colorama==0.4.6           # Para mejorar la salida en consola
+contourpy==1.3.1          # Para crear gráficos de contornos
+cycler==0.12.1            # Para personalizar ciclos de colores en gráficos
+exceptiongroup==1.2.2     # Para manejar excepciones en grupos
+fonttools==4.56.0         # Para manipular fuentes
+greenlet==3.1.1           # Para soporte de concurrencia
+iniconfig==2.0.0          # Para configurar pytest
+joblib==1.4.2             # Para serializar objetos de Python
+kiwisolver==1.4.8         # Para la resolución de sistemas de ecuaciones lineales
+packaging==24.2           # Para la gestión de paquetes
+pillow==11.1.0            # Para trabajar con imágenes
+pip==25.0.1               # Para la instalación de paquetes
+pluggy==1.5.0             # Para gestionar los plugins de pytest
+pyparsing==3.2.1          # Para analizar cadenas de texto
+python-dateutil==2.9.0.post0 # Para manejar fechas
+pytz==2025.1              # Para manejar zonas horarias
+setuptools==76.0.0        # Para gestionar la instalación de paquetes
+six==1.17.0               # Para compatibilidad entre Python 2 y 3
+threadpoolctl==3.6.0      # Para controlar el uso de hilos
+tomli==2.2.1              # Para analizar archivos TOML
+typing-extensions==4.12.2 # Para compatibilidad con tipado de Python
+tzdata==2025.1            # Información de zonas horarias
+wheel==0.45.1             # Para la creación de archivos de distribución
+autocommand==2.2.2        # Para ejecutar comandos automáticamente
+backports.tarfile==1.2.0  # Para trabajar con archivos tar en Python 2
+importlib-metadata==8.0.0 # Para importar metadatos de paquetes
+inflect==7.3.1            # Para generar texto con números
+jaraco.collections==5.1.0 # Para colecciones adicionales de Python
+jaraco.context==5.3.0     # Para trabajar con contextos
+jaraco.functools==4.0.1   # Funcionalidades adicionales de functools
+jaraco.text==3.12.1       # Para manipular cadenas de texto
+more-itertools==10.3.0    # Funciones adicionales de itertools
+platformdirs==4.2.2       # Para trabajar con directorios en plataformas
+typeguard==4.3.0          # Para comprobación de tipos
+zipp==3.19.2              # Para trabajar con archivos comprimidos
