@@ -1,14 +1,15 @@
 import yaml
 import os
 
-class Configuracion:
-    DURACION_TURNO = 30  # en minutos
-    DURACION_TOTAL = 24 * 30  # Duración total del ciclo en minutos (ej. 30 días de juego)
+class Config_turno:
+        DURACION_TURNO = 30  # en minutos
+        DURACION_TOTAL = 24 * 30  # Duración total del ciclo en minutos (ej. 30 días de juego)
 
 def cargar_configuracion():
     """
     Carga la configuración desde los archivos YAML en la carpeta 'config'.
     """
+
     config = {}
     try:
         config_files = ["ia.yaml", "logging.yaml", "simulador.yaml"]
@@ -24,6 +25,4 @@ def cargar_configuracion():
 
     return config
 
-class Config:
-    DURACION_TURNO = 30  # en minutos
-    DURACION_TOTAL = 24 * 30  # Duración total del ciclo en minutos (ej. 30 días de juego)
+
