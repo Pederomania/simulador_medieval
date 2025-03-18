@@ -1,0 +1,1 @@
+aqui se guardaran los archivos de las memorias de los npcs
