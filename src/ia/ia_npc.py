@@ -1,0 +1,1 @@
+#ia_npc.py      - Se encarga de gestionar la IA de los NPCs

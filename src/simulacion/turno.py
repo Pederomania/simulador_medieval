@@ -1,14 +1,14 @@
 #turno.py
 import time
-from config import Config_turno  # Importa correctamente desde la ubicación de config.py
+from src.config import ConfigTurno   # Importa correctamente desde la ubicación de config.py
 
 class Turno:
     def __init__(self):
         """
         Inicializa el sistema de turnos usando los valores de config.py.
         """
-        self.duracion_turno = Config_turno.DURACION_TURNO  # Usamos la duración del turno desde config.py
-        self.duracion_total = Config_turno.DURACION_TOTAL  # Usamos la duración total desde config.py
+        self.duracion_turno = ConfigTurno.DURACION_TURNO  # Usamos la duración del turno desde config.py
+        self.duracion_total = ConfigTurno.DURACION_TOTAL  # Usamos la duración total desde config.py
         self.turno_actual = 0
         self.tiempo_transcurrido = 0
 

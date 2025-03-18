@@ -1,0 +1,1 @@
+#npc.py      - Se encarga de crear NPCs, sus atributos, acciones posibles y demas.

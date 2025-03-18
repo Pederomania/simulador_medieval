@@ -1,0 +1,1 @@
+#ia_gestor.py      - Se encarga de gestionar la IA del Gestor (o gestores)

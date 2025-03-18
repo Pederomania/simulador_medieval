@@ -1,0 +1,1 @@
+#simulador.py      - Se encarga de gestionar el mundo, la o las aldeal, ia_gestor, npcs, recursos, eventos y demas
